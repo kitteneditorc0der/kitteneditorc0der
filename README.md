@@ -1,1 +1,2 @@
-# My-Subpage
+# My subpage
+It's made from Bootstrap.
