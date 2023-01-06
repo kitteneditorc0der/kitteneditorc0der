@@ -29,6 +29,10 @@ h1 {
     width: 25%;
     box-shadow: 10px 10px 20px #AAAAAA;
 }
+.card img {
+    width: 100%;
+    border-bottom: 1px solid #09F;
+}
 .container {
     padding: 1%;
 }
