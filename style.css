@@ -28,6 +28,7 @@ h1 {
     float: left;
     width: 25%;
     box-shadow: 10px 10px 20px #AAAAAA;
+    text-align: center;
 }
 .card img {
     width: 100%;
