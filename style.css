@@ -19,7 +19,7 @@ h1 {
     float: left;
     padding: 2%;
     color: white;
-    
+    font-weight: bold;
 }
 #tabbar a:hover, #tabbar a#active {
     background-color: #09F;
