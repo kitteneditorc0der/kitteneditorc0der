@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+* {
+    font-family: "Lato";
+}
 h1 {
     margin: 2%;
 }
